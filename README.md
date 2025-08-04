@@ -122,3 +122,16 @@ Both use deep learning techniques with structured data, and include preprocessin
 
 ├── logs/, regressionlogs/ # Training logs
 
+## 🛠️ Tech Stack
+Python 3.x
+
+TensorFlow / Keras
+
+NumPy, Pandas, Scikit-learn
+
+Matplotlib, Seaborn, TensorBoard
+
+Jupyter Notebook
+
+Streamlit
+
