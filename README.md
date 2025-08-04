@@ -94,3 +94,17 @@ Both use deep learning techniques with structured data, and include preprocessin
 
 ## 🗂️ Repository Structure
 
+├── app.py # Optional Streamlit / deployment script
+├── Churn_Modelling.csv # Churn dataset
+├── salary_regression.ipynb # Salary ANN notebook
+├── data_tranformation+model_building.ipynb # Churn ANN pipeline
+├── hyperparametertuning_ANN.ipynb # Tuning experiment
+├── prediction.ipynb # Inference notebook
+├── model.h5 # Churn ANN model
+├── regression_model.h5 # Salary ANN model
+├── scaler.pkl # Feature scaler
+├── encode_geography.pkl # OneHot encoder
+├── label_encode_gender.pkl # Label encoder
+├── requirements.txt # Dependencies
+├── runtime.txt # Python version (for Streamlit cloud)
+├── logs/, regressionlogs/ # Training logs
